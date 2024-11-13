@@ -64,7 +64,6 @@ interests:
 - Fire ecology
 - Bee biology
 - California flora 
-
 last_name: Melone
 organizations:
 - name: University of Wisconsin-Madison Crall lab
