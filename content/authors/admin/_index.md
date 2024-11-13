@@ -57,41 +57,35 @@ education:
     - lorem ipsum dolor sit amet, consectetur adipiscing elit
     - lorem ipsum dolor sit amet, consectetur adipiscing elit
     - lorem ipsum dolor sit amet, consectetur adipiscing elit
-first_name: Shiung Wu
+first_name: Grace "Gigi"
 highlight_name: true
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Thermal ecology
+- Fire ecology
+- Bee biology
+- California flora 
 languages:
 - name: English
   percent: 100
-- name: Chinese
-  percent: 75
-- name: Portuguese
-  percent: 25
-last_name: Chien
-name_pronunciation: Chien Shiung Wu
+- name: Spanish
+  percent: 50
+last_name: Melone
 organizations:
-- name: OpenAI
-  url: https://openai.com/
+- name: University of Wisconsin-Madison Crall lab
+  url: https://www.crall-lab.com/ 
 profiles:
 - icon: at-symbol
   label: E-mail Me
-  url: mailto:your-email@example.com
+  url: mailto:gmelone@wisc.edu
 - icon: brands/x
-  url: https://twitter.com/GetResearchDev
-- icon: brands/instagram
-  url: https://www.instagram.com/
+  url: https://twitter.com/gigi_melone
 - icon: brands/github
-  url: https://github.com/gcushen
-- icon: brands/linkedin
-  url: https://www.linkedin.com/
+  url: https://github.com/gigi-melone
 - icon: academicons/google-scholar
-  url: https://scholar.google.com/
+  url: https://scholar.google.com/citations?user=2QNBGzoAAAAJ&hl=en
 - icon: academicons/orcid
-  url: https://orcid.org/
-role: Chief Scientist
+  url: https://orcid.org/0000-0002-5236-387X
+role: PhD Student
 skills:
 - items:
   - description: ""
