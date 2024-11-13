@@ -41,10 +41,10 @@ education:
   # summary: |
   #   GPA: 3.8/4.0
 
-    Courses included:
-    - lorem ipsum dolor sit amet, consectetur adipiscing elit
-    - lorem ipsum dolor sit amet, consectetur adipiscing elit
-    - lorem ipsum dolor sit amet, consectetur adipiscing elit
+ #   Courses included:
+  #  - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  #  - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  #  - lorem ipsum dolor sit amet, consectetur adipiscing elit
 - area: BSc Artificial Intelligence
   date_end: "2020-12-31"
   date_start: "2016-01-01"
