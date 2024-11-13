@@ -35,7 +35,7 @@ education:
   # summary: |
   #   Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
 - area: Pursuing PhD in Integrative Biology 
- # date_end: 
+  date_end: ""
   date_start: "2021-09-01"
   institution: University of Wisconsin-Madison
   # summary: |
