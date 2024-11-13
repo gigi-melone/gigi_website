@@ -64,11 +64,7 @@ interests:
 - Fire ecology
 - Bee biology
 - California flora 
-languages:
-- name: English
-  percent: 100
-- name: Spanish
-  percent: 50
+
 last_name: Melone
 organizations:
 - name: University of Wisconsin-Madison Crall lab
@@ -118,7 +114,6 @@ skills:
     percent: 80
   name: Hobbies
 status:
-  icon: ️
 superuser: true
 title: Grace "Gigi" Melone
 work:
