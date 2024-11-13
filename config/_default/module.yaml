@@ -7,6 +7,7 @@
 imports:
   - path: github.com/HugoBlox/hugo-blox-builder/modules/blox-plugin-netlify
   - path: github.com/HugoBlox/hugo-blox-builder/modules/blox-tailwind
+  - path: github.comn/HugoBlox/hugo-blox-builder/main/modules/blox-tailwind/assets/css/theme/rose.css
 
 # Install any Hugo Blox within the `hugo-blox/blox/` folder
 mounts:
