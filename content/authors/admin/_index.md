@@ -142,4 +142,4 @@ work:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a PhD student in the Crall and Trowbridge labs at the University of Wisconsin-Madison. I am interested in thermal ecology of insects and the impacts of disturbance ecology on plant-insect interactions. I am most excited by trying to understand how these stressors differentially affect insects throughout ontogeny. I am studying effects of wildfire ash deposition on plant-herbivore interactions with Manduca sexta, and the effects of heatwaves on social and solitary bee biology and behavior. I’m passionate about science communication and increasing diversity in ecology. Outside of research I like  talking about research, taking long walks, riding my horse, and trying not to fall of my bike!
