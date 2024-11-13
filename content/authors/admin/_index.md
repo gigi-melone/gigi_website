@@ -2,49 +2,49 @@
 awards: 
 - awarder: National Science Foundation
   date: "2023"
-  #icon: 
+  icon: 
   summary: I was awarded the NSF-GRFP for my research on the effects of wildfire ash deposition on plant-pollinator interactions and pollinator biology. 
   title: National Science Foundation Graduate Research Fellowship
-  #url: https://www.coursera.org/learn/neural-networks-deep-learning
-# - awarder: edX
-#   date: "2023-07-01"
-#   icon: edx
-#   summary: |
-#     Learned:
-#     - Synthesize your own blockchain solutions
-#     - Gain an in-depth understanding of the specific mechanics of Bitcoin
-#     - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-#   title: Blockchain Fundamentals
-#   url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-# - awarder: datacamp
-#   certificate_url: https://www.datacamp.com
-#   date: "2023-01-21"
-#   icon: datacamp
-#   summary: |
-#     Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
-#   title: Object-Oriented Programming in R
-#   url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
+  url: https://www.coursera.org/learn/neural-networks-deep-learning
+- awarder: edX
+  date: "2023-07-01"
+  icon: edx
+  summary: |
+    Learned:
+    - Synthesize your own blockchain solutions
+    - Gain an in-depth understanding of the specific mechanics of Bitcoin
+    - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
+  title: Blockchain Fundamentals
+  url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+- awarder: datacamp
+  certificate_url: https://www.datacamp.com
+  date: "2023-01-21"
+  icon: datacamp
+  summary: |
+    Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+  title: Object-Oriented Programming in R
+  url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
 education:
-- area: BSc Entomology 
-  # button:
-  #   text: Read Thesis
-  #   url: https://example.com
-  date_end: "2020-12-20"
-  date_start: "2017-09-27"
-  institution: University of California-Davis 
-  # summary: |
-  #   Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-- area: Pursuing PhD in Integrative Biology 
-  date_end: ""
-  date_start: "2021-09-01"
-  institution: University of Wisconsin-Madison
-  # summary: |
-  #   GPA: 3.8/4.0
+- area: PhD Artificial Intelligence
+  button:
+    text: Read Thesis
+    url: https://example.com
+  date_end: "2020-12-31"
+  date_start: "2016-01-01"
+  institution: Stanford University
+  summary: |
+    Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+- area: MEng Artificial Intelligence
+  date_end: "2020-12-31"
+  date_start: "2016-01-01"
+  institution: Massachusetts Institute of Technology
+  summary: |
+    GPA: 3.8/4.0
 
- #   Courses included:
-  #  - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  #  - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  #  - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    Courses included:
+    - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    - lorem ipsum dolor sit amet, consectetur adipiscing elit
 - area: BSc Artificial Intelligence
   date_end: "2020-12-31"
   date_start: "2016-01-01"
