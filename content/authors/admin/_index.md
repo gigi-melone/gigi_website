@@ -6,17 +6,8 @@ awards:
   summary: |
     I was awarded the NSF-GRF for my research studying the effects of wildfire      ash deposition on plant-pollinator interactions.
   title: National Science Foundation Graduate Research Fellowship 
-  url: https://www.coursera.org/learn/neural-networks-deep-learning
-- awarder: edX
-  date: "2023-07-01"
-  icon: edx
-  summary: |
-    Learned:
-    - Synthesize your own blockchain solutions
-    - Gain an in-depth understanding of the specific mechanics of Bitcoin
-    - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  title: Blockchain Fundamentals
-  url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+  url: https://www.nsfgrfp.org/ 
+
 - awarder: datacamp
   certificate_url: https://www.datacamp.com
   date: "2023-01-21"
