@@ -65,11 +65,11 @@ skills:
     name: Hiking
     percent: 60
   - description: ""
-    icon: book
+    icon: cat
     name: Reading
     percent: 100
   - description: ""
-    icon: ball
+    icon: camera
     name: Volleyball
     percent: 80
   name: Hobbies
@@ -80,4 +80,4 @@ title: Grace "Gigi" Melone
 
 ## About Me
 
-I am a PhD candidate in the Crall and Trowbridge labs at the University of Wisconsin-Madison. I am interested in thermal ecology of insects and the impacts of disturbance ecology on plant-insect interactions. I am most excited by trying to understand how these stressors differentially affect insects throughout ontogeny. I am studying effects of wildfire ash deposition on plant-herbivore interactions with Manduca sexta, and the effects of heatwaves on social and solitary bee biology and behavior. I’m passionate about science communication and increasing diversity in ecology. Outside of research I like  talking about research, taking long walks, riding my horse, and trying not to fall of my bike!
+I am a PhD student in the Crall and Trowbridge labs at the University of Wisconsin-Madison. I am interested in thermal ecology of insects and the impacts of disturbance ecology on plant-insect interactions. I am most excited by trying to understand how these stressors differentially affect insects throughout ontogeny. I am studying effects of wildfire ash deposition on plant-herbivore interactions with Manduca sexta, and the effects of heatwaves on social and solitary bee biology and behavior. I’m passionate about science communication and increasing diversity in ecology. Outside of research I like  talking about research, taking long walks, riding my horse, and trying not to fall of my bike!
