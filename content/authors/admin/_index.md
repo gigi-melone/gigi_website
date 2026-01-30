@@ -65,8 +65,7 @@ skills:
     name: Hiking
     percent: 60
   - description: ""
-    icon: book
-    icon_pack: fas
+    icon: mdi:book-open-page-variant
     name: Reading
     percent: 100
   - description: ""
