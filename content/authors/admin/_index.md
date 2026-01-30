@@ -65,11 +65,11 @@ skills:
     name: Hiking
     percent: 60
   - description: ""
-    icon: mdi:book-open-page-variant
+    icon: book-open
     name: Reading
     percent: 100
   - description: ""
-    icon: camera
+    icon: star
     name: Volleyball
     percent: 80
   name: Hobbies
