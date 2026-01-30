@@ -11,7 +11,7 @@ awards:
 education:
 - area: Pursuing PhD in Integrative Biology
   button:
-  date_end: "2020-12-31"
+  date_end: "Expected May 2027"
   date_start: "2021-09-01"
   institution: University of Wisconsin - Madison
 - area: BSc Entomology
@@ -27,8 +27,11 @@ interests:
 - California flora 
 last_name: Melone
 organizations:
-- name: University of Wisconsin-Madison Crall lab
+- name: University of Wisconsin-Madison 
+- name: Crall lab
   url: https://www.crall-lab.com/ 
+-name: Trowbridge Lab 
+  url: https://amymtrowbridge.wixsite.com/website
 profiles:
 - icon: at-symbol
   label: E-mail Me
