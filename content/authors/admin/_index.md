@@ -29,8 +29,6 @@ last_name: Melone
 organizations:
 - name: University of Wisconsin-Madison Crall lab
   url: https://www.crall-lab.com/ 
--name: Trowbridge Lab
-  url: https://amymtrowbridge.wixsite.com/website
 profiles:
 - icon: at-symbol
   label: E-mail Me
@@ -52,11 +50,11 @@ skills:
     percent: 80
   - description: ""
     icon: chart-bar
-    name: Data Science
+    name: R, Rstudio
     percent: 100
   - description: ""
     icon: circle-stack
-    name: SQL
+    name: Skills
     percent: 40
   name: Technical Skills
 - color: '#eeac02'
@@ -67,12 +65,12 @@ skills:
     name: Hiking
     percent: 60
   - description: ""
-    icon: cat
-    name: Cats
+    icon: book
+    name: Reading
     percent: 100
   - description: ""
-    icon: camera
-    name: Photography
+    icon: ball
+    name: Volleyball
     percent: 80
   name: Hobbies
 status:
@@ -82,4 +80,4 @@ title: Grace "Gigi" Melone
 
 ## About Me
 
-I am a PhD student in the Crall and Trowbridge labs at the University of Wisconsin-Madison. I am interested in thermal ecology of insects and the impacts of disturbance ecology on plant-insect interactions. I am most excited by trying to understand how these stressors differentially affect insects throughout ontogeny. I am studying effects of wildfire ash deposition on plant-herbivore interactions with Manduca sexta, and the effects of heatwaves on social and solitary bee biology and behavior. I’m passionate about science communication and increasing diversity in ecology. Outside of research I like  talking about research, taking long walks, riding my horse, and trying not to fall of my bike!
+I am a PhD candidate in the Crall and Trowbridge labs at the University of Wisconsin-Madison. I am interested in thermal ecology of insects and the impacts of disturbance ecology on plant-insect interactions. I am most excited by trying to understand how these stressors differentially affect insects throughout ontogeny. I am studying effects of wildfire ash deposition on plant-herbivore interactions with Manduca sexta, and the effects of heatwaves on social and solitary bee biology and behavior. I’m passionate about science communication and increasing diversity in ecology. Outside of research I like  talking about research, taking long walks, riding my horse, and trying not to fall of my bike!
