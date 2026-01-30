@@ -27,10 +27,9 @@ interests:
 - California flora 
 last_name: Melone
 organizations:
-- name: University of Wisconsin-Madison 
-- name: Crall lab
+- name: University of Wisconsin-Madison Crall lab
   url: https://www.crall-lab.com/ 
--name: Trowbridge Lab 
+-name: Trowbridge Lab
   url: https://amymtrowbridge.wixsite.com/website
 profiles:
 - icon: at-symbol
@@ -44,7 +43,7 @@ profiles:
   url: https://scholar.google.com/citations?user=2QNBGzoAAAAJ&hl=en
 - icon: academicons/orcid
   url: https://orcid.org/0000-0002-5236-387X
-role: PhD Student
+role: PhD Candidate
 skills:
 - items:
   - description: ""
