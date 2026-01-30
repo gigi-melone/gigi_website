@@ -11,7 +11,7 @@ awards:
 education:
 - area: Pursuing PhD in Integrative Biology
   button:
-  date_end: "Expected May 2027"
+  date_end: "2027-05-01"
   date_start: "2021-09-01"
   institution: University of Wisconsin - Madison
 - area: BSc Entomology
