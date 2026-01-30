@@ -65,7 +65,7 @@ skills:
     name: Hiking
     percent: 60
   - description: ""
-    icon: cat
+    icon: book
     name: Reading
     percent: 100
   - description: ""
