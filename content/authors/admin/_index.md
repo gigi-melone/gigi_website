@@ -66,6 +66,7 @@ skills:
     percent: 60
   - description: ""
     icon: book
+    icon_pack: fas
     name: Reading
     percent: 100
   - description: ""
