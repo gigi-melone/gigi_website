@@ -2,7 +2,7 @@
 awards:
 - awarder: National Science Foundation
   date: "2023-04-01"
-  icon: globe
+  icon: fa6-solid:globe
   summary: |
     I was awarded the NSF-GRF for my research studying the effects of wildfire      ash deposition on plant-pollinator interactions.
   title: National Science Foundation Graduate Research Fellowship 
