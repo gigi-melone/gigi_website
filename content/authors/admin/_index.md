@@ -52,10 +52,6 @@ skills:
     icon: chart-bar
     name: R, Rstudio
     percent: 100
-  - description: ""
-    icon: circle-stack
-    name: Skills
-    percent: 40
   name: Technical Skills
 - color: '#eeac02'
   color_border: '#f0bf23'
